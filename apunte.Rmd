@@ -5,7 +5,7 @@ fecha: "25 de diciembre de 2019"
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: plantilla/apuntespuc.tex
+    template: plantilla/apuntespacha.tex
     keep_tex: yes
 ---
 
